@@ -1,0 +1,9 @@
+/* contact page styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#contact-form label {
+  display: block;
+  margin-top: 0.5rem;
+}
